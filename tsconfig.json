@@ -1,7 +1,7 @@
 {
     "compilerOptions": {
         "lib": ["ES2015", "DOM"],
-        "module": "commonjs",
+        "module": "es2015",
         "outDir": "dist",
         "sourceMap": true,
         "strict": true,

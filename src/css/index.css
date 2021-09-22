@@ -1,0 +1,12 @@
+html,
+body
+{
+	font-size: 62.5%;
+}
+body
+{
+	width: 100vw;
+	height: 100vh;
+	/* background: #000; */
+	display: flex;
+}

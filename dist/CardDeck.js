@@ -11,109 +11,109 @@ export const cardDeck = [
      */
     {
         color: 0,
-        num: '1',
+        num: 1,
         isSelected: false,
         location: 0
     },
     {
         color: 0,
-        num: '2',
+        num: 2,
         isSelected: false,
         location: 0
     },
     {
         color: 0,
-        num: '3',
+        num: 3,
         isSelected: false,
         location: 0
     },
     {
         color: 0,
-        num: '4',
+        num: 4,
         isSelected: false,
         location: 0
     },
     {
         color: 0,
-        num: '5',
+        num: 5,
         isSelected: false,
         location: 0
     },
     {
         color: 0,
-        num: '6',
+        num: 6,
         isSelected: false,
         location: 0
     },
     {
         color: 0,
-        num: '7',
+        num: 7,
         isSelected: false,
         location: 0
     },
     {
         color: 0,
-        num: '8',
+        num: 8,
         isSelected: false,
         location: 0
     },
     {
         color: 0,
-        num: '9',
+        num: 9,
         isSelected: false,
         location: 0
     },
     {
         color: 1,
-        num: '1',
+        num: 1,
         isSelected: false,
         location: 0
     },
     {
         color: 1,
-        num: '2',
+        num: 2,
         isSelected: false,
         location: 0
     },
     {
         color: 1,
-        num: '3',
+        num: 3,
         isSelected: false,
         location: 0
     },
     {
         color: 1,
-        num: '4',
+        num: 4,
         isSelected: false,
         location: 0
     },
     {
         color: 1,
-        num: '5',
+        num: 5,
         isSelected: false,
         location: 0
     },
     {
         color: 1,
-        num: '6',
+        num: 6,
         isSelected: false,
         location: 0
     },
     {
         color: 1,
-        num: '7',
+        num: 7,
         isSelected: false,
         location: 0
     },
     {
         color: 1,
-        num: '8',
+        num: 8,
         isSelected: false,
         location: 0
     },
     {
         color: 1,
-        num: '9',
+        num: 9,
         isSelected: false,
         location: 0
     }

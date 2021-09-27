@@ -1,5 +1,5 @@
-export const cardDeck = [
-    /** 
+export const TILEDECK = [
+    /**
      *  color:
      *      0: 赤色のカード
      *      1: 青色のカード
@@ -117,4 +117,5 @@ export const cardDeck = [
         isSelected: false,
         location: 0
     }
-]
+];
+//# sourceMappingURL=TileDeck.js.map

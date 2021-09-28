@@ -1,8 +1,5 @@
 import { SetTiles } from "./SetTiles.js";
 const gameScreen = document.querySelector('#gameScreen');
-const numCards = document.querySelectorAll('.numCard');
-SetTiles(numCards);
-// for (let i = 0; i < numCards.length; i++) {
-//     numCards[i].innerHTML = Math.floor(Math.random() * 10).toString()
-// }
+const numberTiles = document.querySelectorAll('.numberTile');
+SetTiles(numberTiles);
 //# sourceMappingURL=index.js.map

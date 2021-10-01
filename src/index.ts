@@ -5,3 +5,4 @@ const gameScreen = document.querySelector<HTMLDivElement>('#gameScreen')
 const numberTiles = document.querySelectorAll<HTMLDivElement>('.numberTile')
 
 SetTiles(numberTiles)
+

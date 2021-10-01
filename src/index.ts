@@ -6,3 +6,5 @@ const numberTiles = document.querySelectorAll<HTMLDivElement>('.numberTile')
 
 SetTiles(numberTiles)
 
+
+
